@@ -24,7 +24,7 @@ The dashboard provides:
 - **Review Volume vs. Low Rating Rate:** Identification of potential quality concerns.
 - **Customer Complaint Analysis:** Detailed investigation of a selected product.
 
-![Amazon Product Quality Dashboard](images/dashboard.png)
+![Amazon Product Quality Dashboard](dashboard.png)
 
 ## Case Study: Beckham Hotel Collection Pillows
 
